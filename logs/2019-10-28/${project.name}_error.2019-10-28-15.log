@@ -1,4 +1,4 @@
-2019-10-29 11:16:33,593 ERROR [main][DirectJDKLog.java:175] - Failed to start component [Connector[HTTP/1.1-56080]]
+2019-10-29 11:13:10,499 ERROR [main][DirectJDKLog.java:175] - Failed to start component [Connector[HTTP/1.1-56080]]
 org.apache.catalina.LifecycleException: Protocol handler start failed
 	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008)
 	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
@@ -28,7 +28,7 @@ Caused by: java.net.BindException: Address already in use: bind
 	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
 	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005)
 	... 14 more
-2019-10-29 11:16:33,622 ERROR [main][LoggingFailureAnalysisReporter.java:42] - 
+2019-10-29 11:13:10,555 ERROR [main][LoggingFailureAnalysisReporter.java:42] - 
 
 ***************************
 APPLICATION FAILED TO START

@@ -9,6 +9,9 @@
     <file url="file://$PROJECT_DIR$/dtx-tcc-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtx-txmsg-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
