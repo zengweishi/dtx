@@ -43,7 +43,7 @@ public class AccountInfoServiceImpl implements AccountInfoService {
         if (transfer.equals("fallback")) {
             throw new RuntimeException("下游服务调用失败！");
         }
-        //认为制造异常
+        //人为制造异常
         if(amount == 3) {
             throw new RuntimeException("转账金额不能为3");
         }

@@ -7,7 +7,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * description:TODO
+ * description:
+ *      1.Bank1进行try,confirm为空，cancel则执行取消try的操作
+ *      2.Bank2的try,cancel为空，执行confirm的内容
  *
  * @author weishi.zeng
  * @version 1.0
